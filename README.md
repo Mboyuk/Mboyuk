@@ -25,6 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboyuk&layout=compact&theme=dark" >
 
 ##  Github Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mboyuk&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="mehmetboyuk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mboyuk&include_all_commits=true&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="mehmetboyuk" /></p>
 
 
