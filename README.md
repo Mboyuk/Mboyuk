@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mboyuk)](https://github.com/Mboyuk/github-readme-stats)
+[![Mboyuk'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Mboyuk)](https://github.com/Mboyuk/github-readme-stats)
