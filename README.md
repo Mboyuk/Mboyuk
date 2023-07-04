@@ -1,30 +1,84 @@
-<h1 align="center">Hi everyone👋, I'm Mehmet</h1>
-<h3 align="center">A Backend Developer from Turkey</h3>
+### Hi there, I'm Mehmet Böyük - byk [Mboyuk] 👋 
 
-- 📫 How to reach me **mehmetboyuk.mb@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+
+## I'm a Developer, and Coffee Lover!!
+
+- 🔭 I am working on my first blog: [Djaboutai]!
+- 🌱 I’m currently learning gO and rUST 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more and more
+- ⚡ Fun fact: I love coffee
+
+### Connect with me:
+
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+ 
+  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" /> -->
+  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+<p align="center">
+    <a href="https://github.com/Mboyuk/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mboyuk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mboyuk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
+<details>
+  <summary>:zap: 📊 GitHub Top Languages</summary>
+  
+<br/>
+  <a href="https://github.com/Mboyuk/github-readme-stats"><img alt="Mboyuk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboyuk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</details>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
-<!-- <summary>:bulb:-->
+<details>
+  <summary>:zap: 📊 Activity Graph</summary>
+  
+<br/>
+<a href="https://github.com/Mboyuk/github-readme-activity-graph"><img alt="Mboyuk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mboyuk&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=400" /></a>
 
-## 💻 Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboyuk&layout=compact&theme=dark" >
+</details>
+  
+<details>
+  <summary>:zap: 📊 GitHub Stats</summary>
 
-##  Github Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mboyuk&include_all_commits=true&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="mehmetboyuk" /></p>
+  <br/>
+  <img alt="Mboyuk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mboyuk&include_all_commits=true&show_icons=true&hide_border=true" />
 
+</details>
 
+<!-- [website]: https://codeSTACKr.com -->
+<!-- [course]: http://vsCodeHero.com -->
+<!-- [youtube]: https://youtube.com/codeSTACKr -->
+
+[linkedin]: https://linkedin.com/in/
