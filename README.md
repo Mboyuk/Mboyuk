@@ -4,8 +4,7 @@
 
 ## I'm a Developer, and Coffee Lover!!
 
-- 🔭 I am working on my first blog: [Djaboutai]!
-- 🌱 I’m currently learning gO and rUST 🤣
+- 🌱 I’m currently learning NODEJS and MONGODB 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more and more
 - ⚡ Fun fact: I love coffee
