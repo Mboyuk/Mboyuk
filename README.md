@@ -2,12 +2,9 @@
 
 
 
-## I'm a Developer, and tea Lover!!
+## I'm a Developer
 
 - 🌱 I’m currently learning NODEJS and MONGODB 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more and more
-- ⚡ Fun fact: I love tea
 
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
